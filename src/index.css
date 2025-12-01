@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@400;500&display=swap');
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+@media (max-width:1050px){
+    .nav{
+        max-width:1050px
+    }
+}
