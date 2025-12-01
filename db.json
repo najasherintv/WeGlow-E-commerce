@@ -1,0 +1,557 @@
+{
+  "products": [
+    {
+      "id": "7",
+      "name": "Soothing Face Mask",
+      "price": 150,
+      "stock": 10,
+      "category": "offers",
+      "description": "Perfect for that sun-kissed summer glow",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/dear-klairs/1023417/0/HhZDxaavty-qeufwvhwkJ-C44BsmUT1e-1023417_1.jpg",
+      "active": true
+    },
+    {
+      "id": "8",
+      "name": "Aloe Vera Gel",
+      "price": 120,
+      "stock": 27,
+      "category": "offers",
+      "description": "Perfect for that sun-kissed summer glow",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1122633/oc1sif7YO6-1122633_1.jpg",
+      "active": true
+    },
+    {
+      "id": "9",
+      "name": "Rose Water Toner",
+      "price": 120,
+      "stock": 220,
+      "category": "new-arrival",
+      "description": "Best for glowing, fresh look.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1023941/oGKAWocuuW-1023941_1.jpg",
+      "active": true
+    },
+    {
+      "id": "10",
+      "name": "Charcoal Face Wash",
+      "price": 295,
+      "stock": 110,
+      "category": "new-arrival",
+      "description": "Promotes youthful radiance.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1021850/f7lHwpK11d-1021850_1.jpg",
+      "active": true
+    },
+    {
+      "id": "11",
+      "name": "Daily Sunscreen SPF 50",
+      "price": 725,
+      "stock": 120,
+      "category": "best-seller",
+      "description": "Revitalizes and soothes your skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1165924/W_u8k5gAQ_-1165924_1.jpg",
+      "active": true
+    },
+    {
+      "id": "12",
+      "name": "Retinol Night Cream",
+      "price": 495,
+      "stock": 20,
+      "category": "offers",
+      "description": "Promotes youthful radiance.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/995989/8G_fEFfPAU-995989_1.jpg",
+      "active": true
+    },
+    {
+      "id": "13",
+      "name": "Cucumber Eye Gel",
+      "price": 320,
+      "stock": 26,
+      "category": "offers",
+      "description": "Promotes youthful radiance.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1079600/BDyshfVxaw-500x500.jpg",
+      "active": true
+    },
+    {
+      "id": "14",
+      "name": "Gentle Foaming Cleanser",
+      "price": 270,
+      "stock": 210,
+      "category": "best-seller",
+      "description": "Lightweight and deeply hydrating.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1090193/qGGMYv7iAy-1090193_1.jpg",
+      "active": true
+    },
+    {
+      "id": "15",
+      "name": "Anti-aging Cream",
+      "price": 500,
+      "stock": 205,
+      "category": "offers",
+      "description": "Minimizes pores and clears skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/946121/_6wgZFzIYJ-946121_1.jpg",
+      "active": true
+    },
+    {
+      "id": "16",
+      "name": "BHA Exfoliating Serum",
+      "price": 350,
+      "stock": 200,
+      "category": "new-arrival",
+      "description": "Revitalizes and soothes your skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1132057/6eiLWX0EbO-1132057-1.jpg",
+      "active": true
+    },
+    {
+      "id": "17",
+      "name": "Brightening Sheet Mask",
+      "price": 120,
+      "stock": 40,
+      "category": "offers",
+      "description": "Revitalizes and soothes your skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/949593/bFlqme6PA6-949593_1.jpg",
+      "active": true
+    },
+    {
+      "id": "18",
+      "name": "Tea Tree Acne Gel",
+      "price": 125,
+      "stock": 70,
+      "category": "new-arrival",
+      "description": "Best for glowing, fresh look.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1160763/YNG3pw5npQ-1160763-1.jpg",
+      "active": true
+    },
+    {
+      "id": "19",
+      "name": "HydraBoost Moisturizer",
+      "price": 280,
+      "stock": 50,
+      "category": "new-arrival",
+      "description": "Gentle on sensitive skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/Neutrogena/TIRA006943/1171060_combo_1/1171060_combo_1_1.jpg",
+      "active": true
+    },
+    {
+      "id": "20",
+      "name": "Niacinamide Serum",
+      "price": 247,
+      "stock": 80,
+      "category": "best-seller",
+      "description": "Revitalizes and soothes your skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1154593/ilW0Oe-6EW-1154593_1.jpg",
+      "active": true
+    },
+    {
+      "id": "21",
+      "name": "Firming Eye Cream",
+      "price": 262,
+      "stock": 20,
+      "category": "best-seller",
+      "description": "Minimizes pores and clears skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1077049/aNzQ9q9xF1-729238163799_1.jpg",
+      "active": true
+    },
+    {
+      "id": "22",
+      "name": "Skin Renew Face Oil",
+      "price": 252,
+      "stock": 40,
+      "category": "best-seller",
+      "description": "Gentle on sensitive skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1141315/rOpCIcoon-8904417312782_1.jpg",
+      "active": true
+    },
+    {
+      "id": "23",
+      "name": "Matte Finish Primer",
+      "price": 215,
+      "stock": 40,
+      "category": "best-seller",
+      "description": "Lightweight and deeply hydrating.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1072280/WBHRknKOCy-8904409710374_1.jpg",
+      "active": true
+    },
+    {
+      "id": "24",
+      "name": "Pore Minimizing Mist",
+      "price": 250,
+      "stock": 64,
+      "category": "offers",
+      "description": "Revitalizes and soothes your skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/915851/7OkIrGw26m-915851_1.jpg",
+      "active": true
+    },
+    {
+      "id": "25",
+      "name": "Hyaluronic Acid Drops",
+      "price": 160,
+      "stock": 28,
+      "category": "best-seller",
+      "description": "Revitalizes and soothes your skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1103737/35e28inEH-1103737_1.jpg",
+      "active": true
+    },
+    {
+      "id": "26",
+      "name": "Coffee Face Scrub",
+      "price": 150,
+      "stock": 120,
+      "category": "new-arrival",
+      "description": "Revitalizes and soothes your skin.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1161679/S_hDAkRWTQ-1161679_5_1.jpg",
+      "active": true
+    },
+    {
+      "id": "27",
+      "name": "Lavender Night Balm",
+      "price": 285,
+      "stock": 105,
+      "category": "best-seller",
+      "description": "Best for glowing, fresh look.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1170673/j32m1v3jzIk-1170673-1.jpg",
+      "active": true
+    },
+    {
+      "id": "28",
+      "name": "Vitamin E Lotion",
+      "price": 599,
+      "stock": 22,
+      "category": "new-arrival",
+      "description": "Best for glowing, fresh look.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1083211/5NXU3Q7Tsx-8906087776093_1.jpg",
+      "active": true
+    },
+    {
+      "id": "29",
+      "name": "Detox Clay Mask",
+      "price": 250,
+      "stock": 20,
+      "category": "best-seller",
+      "description": "Promotes youthful radiance.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1177495/BLzCvOQdlqZ-1177495_1.jpg",
+      "active": true
+    },
+    {
+      "id": "30",
+      "name": "Soothing Toner",
+      "price": 254,
+      "stock": 25,
+      "category": "new-arrival",
+      "description": "Best for glowing, fresh look.",
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1132181/Ew7Z-DG452-1132181_1.jpg",
+      "active": true
+    },
+    {
+      "id": "2c78",
+      "title": "bn m,",
+      "category": "dfvdsc",
+      "price": 45678,
+      "stock": 678,
+      "image": "kjnkml,;",
+      "description": "hbjnkml,"
+    },
+    {
+      "id": "a609",
+      "title": "dfghj",
+      "category": "rtyjk",
+      "price": 45678,
+      "stock": 5678,
+      "image": "ghjk,.",
+      "description": "fghjm,"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "username": "najasherin",
+      "email": "najasherintv@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "username": "naja",
+      "email": "najasherint@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "username": "nidha",
+      "email": "nidha@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "6",
+      "username": "nadha",
+      "email": "nadha@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "7",
+      "username": "najitv",
+      "email": "najitv@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "8",
+      "username": "naji",
+      "email": "naji@gmail.com",
+      "password": "123",
+      "role": "user",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "1",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin",
+      "active": true,
+      "status": "active"
+    },
+    {
+      "id": "a5f7",
+      "username": "WeGlow Admin",
+      "email": "admin@wegolw.com",
+      "password": "admin123",
+      "role": "user",
+      "status": "active",
+      "active": true
+    },
+    {
+      "id": "6efe",
+      "username": "najanaja",
+      "email": "naja@gmail.com",
+      "password": "123",
+      "role": "user",
+      "status": "active",
+      "active": true
+    },
+    {
+      "id": "f52a",
+      "username": "nabeel ",
+      "email": "nabeel@gmail.com",
+      "password": "nabeel123",
+      "role": "user",
+      "status": "active",
+      "active": true
+    }
+  ],
+  "cart": [
+    {
+      "id": "b1ed",
+      "userId": "1",
+      "productId": null,
+      "name": "Nourishing Moisturizer",
+      "price": 1500,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1140045/jUHuKTYyI-1140045_1.jpg",
+      "quantity": 11
+    },
+    {
+      "id": "96b6",
+      "userId": "1",
+      "productId": null,
+      "name": "Vitamin C Cleanser",
+      "price": 792,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1170251/HGXYijsEM-1170251_1.jpg",
+      "quantity": 7
+    },
+    {
+      "id": "f46e",
+      "userId": "1",
+      "productId": null,
+      "name": "Summer Glow Kit",
+      "price": 1490,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/Nivea/TIRA003564/895175_combo_4/895175_combo_4_1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "f7cd",
+      "userId": "1",
+      "productId": null,
+      "name": "Glow Serum",
+      "price": 560,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1143211/E27eaUzHwt-1143211-1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "ba30",
+      "userId": "1",
+      "productId": null,
+      "name": "Hydrating Serum",
+      "price": 3950,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1177484/s3FUBo0Hq0-1177484_1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "0a8b",
+      "userId": "1",
+      "productId": "7",
+      "name": "Soothing Face Mask",
+      "price": 150,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/dear-klairs/1023417/0/HhZDxaavty-qeufwvhwkJ-C44BsmUT1e-1023417_1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "9ce7",
+      "userId": "1",
+      "productId": "8",
+      "name": "Aloe Vera Gel",
+      "price": 120,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1122633/oc1sif7YO6-1122633_1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "1f9c",
+      "userId": "1",
+      "productId": "10",
+      "name": "Charcoal Face Wash",
+      "price": 295,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:494/1021850/f7lHwpK11d-1021850_1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "4463",
+      "userId": "1",
+      "productId": null,
+      "name": "Clean Skin Combo",
+      "price": 1200,
+      "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/AKIND/1132177_combo_2/1132177_combo_2_1.jpg",
+      "quantity": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": 1,
+      "date": "2025-08-16",
+      "items": [
+        {
+          "id": 1,
+          "name": "Serum",
+          "price": 10,
+          "quantity": 2
+        }
+      ],
+      "total": 20
+    },
+    {
+      "id": "af73",
+      "userId": "1",
+      "date": "8/16/2025, 6:12:40 PM",
+      "items": [
+        {
+          "id": "6",
+          "name": "Clean Skin Combo",
+          "price": 1200,
+          "stock": 20,
+          "category": "new-arrival",
+          "description": "Gentle and Effective skincare duo",
+          "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/AKIND/1132177_combo_2/1132177_combo_2_1.jpg",
+          "active": true,
+          "quantity": 1
+        }
+      ],
+      "total": 1200
+    },
+    {
+      "id": "97ff",
+      "userId": "1",
+      "date": "8/16/2025, 6:12:42 PM",
+      "items": [
+        {
+          "id": "6",
+          "name": "Clean Skin Combo",
+          "price": 1200,
+          "stock": 20,
+          "category": "new-arrival",
+          "description": "Gentle and Effective skincare duo",
+          "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/AKIND/1132177_combo_2/1132177_combo_2_1.jpg",
+          "active": true,
+          "quantity": 1
+        }
+      ],
+      "total": 1200
+    },
+    {
+      "id": "87ab",
+      "userId": "1",
+      "date": "8/16/2025, 6:12:43 PM",
+      "items": [
+        {
+          "id": "6",
+          "name": "Clean Skin Combo",
+          "price": 1200,
+          "stock": 20,
+          "category": "new-arrival",
+          "description": "Gentle and Effective skincare duo",
+          "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/AKIND/1132177_combo_2/1132177_combo_2_1.jpg",
+          "active": true,
+          "quantity": 1
+        }
+      ],
+      "total": 1200
+    },
+    {
+      "id": "ae39",
+      "userId": "1",
+      "date": "8/16/2025, 6:12:44 PM",
+      "items": [
+        {
+          "id": "6",
+          "name": "Clean Skin Combo",
+          "price": 1200,
+          "stock": 20,
+          "category": "new-arrival",
+          "description": "Gentle and Effective skincare duo",
+          "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/AKIND/1132177_combo_2/1132177_combo_2_1.jpg",
+          "active": true,
+          "quantity": 1
+        }
+      ],
+      "total": 1200
+    },
+    {
+      "id": "ef2a",
+      "userId": "1",
+      "date": "8/16/2025, 6:12:45 PM",
+      "items": [
+        {
+          "id": "6",
+          "name": "Clean Skin Combo",
+          "price": 1200,
+          "stock": 20,
+          "category": "new-arrival",
+          "description": "Gentle and Effective skincare duo",
+          "image": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/resize-w:494/Tira_Combos/AKIND/1132177_combo_2/1132177_combo_2_1.jpg",
+          "active": true,
+          "quantity": 1
+        }
+      ],
+      "total": 1200
+    }
+  ]
+}
